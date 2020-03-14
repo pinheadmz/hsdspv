@@ -21,6 +21,7 @@
   "homepage": "https://github.com/pinheadmz/hsdspv#readme",
   "dependencies": {
     "bpkg": "^0.6.0",
-    "hsd": "^2.1.2"
+    "hsd": "^2.1.2",
+    "pkg": "^4.4.4"
   }
 }
