@@ -21,6 +21,10 @@ Currently this process requires two nodejs package bundlers for different reason
 
 ### Usage
 
+#### Download executable
+
+[On MacOS, download the hsd-macos executable by clicking here.](https://github.com/pinheadmz/hsdspv/raw/master/hsdspv-macos)
+
 #### Run hsdspv
 
 The above goal is almost achievable except for one thing:
