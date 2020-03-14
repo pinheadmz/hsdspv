@@ -1,0 +1,26 @@
+{
+  "name": "hsdspv",
+  "version": "1.0.0",
+  "description": "Build executable Handshake SPV resolver",
+  "main": "node_modules/hsd/bin/spvnode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinheadmz/hsdspv.git"
+  },
+  "keywords": [
+    "Handshake"
+  ],
+  "author": "Matthew Zipkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pinheadmz/hsdspv/issues"
+  },
+  "homepage": "https://github.com/pinheadmz/hsdspv#readme",
+  "dependencies": {
+    "bpkg": "^0.6.0",
+    "hsd": "^2.1.2"
+  }
+}
