@@ -1,0 +1,7 @@
+{
+    "name": "hsdspv",
+    "version": "1.0.0",
+    "pkg": {
+        "assets": "names.db"
+    }
+}
