@@ -17,7 +17,7 @@ Currently this process requires two nodejs package bundlers for different reason
 [native code extensions](https://github.com/chjj/bpkg#bundle-mode)
 
 3. [pkg](https://github.com/zeit/pkg) has the ability to
-[compile executables](https://github.com/zeit/pkg#targets)for linux, macos and windows
+[compile executables](https://github.com/zeit/pkg#targets) for linux, macos and windows
 
 ### Usage
 
