@@ -30,8 +30,11 @@ Currently this process requires two nodejs package bundlers for different reason
 The above goal is almost achievable except for one thing:
 On MacOS, a user needs root privileges to run a program that binds to port 53
 
-The solution requires opening a terminal, typing `sudo` and then dragging
-the executable into the terminal window, such that the absolute path gets added:
+The solution requires opening a terminal.
+
+1. Type `chmod a+x` and then drag the executable into the terminal window, such that the absolute path gets added.
+
+2. Type `sudo` and then drag the executable into the terminal window, such that the absolute path gets added:
 
 ![sudo-CLI](https://raw.githubusercontent.com/pinheadmz/hsdspv/master/doc/sudo-cli.png)
 
